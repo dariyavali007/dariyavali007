@@ -30,21 +30,21 @@ I build practical web applications and data-driven projects, with a focus on Pyt
 
 ## Featured projects
 
-### [ToyCraft Tales – Tableau Analytics](https://github.com/dariyavali007/toycraft-tales-tableaus-vision-into-toy-manufacturer-data)
-A data analysis and visualization project exploring toy manufacturer data through an interactive Tableau dashboard.
+| Project | What it demonstrates |
+|---|---|
+| [ToyCraft Tales – Tableau Analytics](https://github.com/dariyavali007/toycraft-tales-tableaus-vision-into-toy-manufacturer-data) | Data exploration and interactive Tableau dashboard |
+| [30 Days Habit Tracker](https://github.com/dariyavali007/30-days-habit-tracker) | Responsive JavaScript app, daily progress, streaks, local storage |
+| [Personal Portfolio](https://github.com/dariyavali007/vali-portfolio) | Personal website built with HTML and CSS |
+| [Full Stack Open Submissions](https://github.com/dariyavali007/FullStackOpenSubmissions) | Web fundamentals, HTTP and SPA learning exercises |
 
-[View the Tableau dashboard](https://public.tableau.com/views/Dashboard1_17511120842850/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+**Live links:** [Portfolio](https://dariyavali007.github.io/vali-portfolio/) · [Tableau Dashboard](https://public.tableau.com/views/Dashboard1_17511120842850/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-### [30 Days Habit Tracker](https://github.com/dariyavali007/30-days-habit-tracker)
-A responsive HTML, CSS, and JavaScript habit tracker with daily progress, streaks, and browser local storage.
+## GitHub overview
 
-### [Personal Portfolio](https://github.com/dariyavali007/vali-portfolio)
-My personal website showcasing my background, skills, and projects.
-
-[Visit live portfolio](https://dariyavali007.github.io/vali-portfolio/)
-
-### [Full Stack Open Submissions](https://github.com/dariyavali007/FullStackOpenSubmissions)
-Course exercises and diagrams covering web application fundamentals, browser-server communication, and single-page applications.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dariyavali007&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub account statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariyavali007&layout=compact&hide_border=true" alt="Most used languages" />
+</p>
 
 ## Experience
 
